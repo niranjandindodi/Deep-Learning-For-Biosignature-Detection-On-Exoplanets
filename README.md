@@ -1,4 +1,4 @@
-# Biosignature Detection In Exoplanets By Using Deep Learning Models on Absorption Line Spectral Data
+# Biosignature Detection In Exoplanets By Using Deep Learning Models on Absorption Line Spectral Data (Authors: Niranjan Dindodi Ramesh, Sujay Hebbar, Rajath S Vasisth)
 Code Repository for the paper presented at IAC-2020
 
 Abstract:
